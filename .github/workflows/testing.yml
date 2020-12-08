@@ -1,4 +1,4 @@
-name: 'test my project'
+name: 'testing'
 on:
   push: 
     branches: 
